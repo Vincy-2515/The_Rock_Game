@@ -21,4 +21,4 @@ email: pythondeveloperita07@gmail.com
 developer: Vincenzo Scarso
 
 ________________________________________________________________________________________________________________________________________
-				ATTENZIONE PER UN' EVENTUALE DISTRIBUZIONE DI QUESTO PRODOTTO QUESTO FILE VA ALLEGATO
+ATTENZIONE PER UN' EVENTUALE DISTRIBUZIONE DI QUESTO PRODOTTO QUESTO FILE VA ALLEGATO
