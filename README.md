@@ -2,6 +2,9 @@
 
 
 ========================================!!!BENVENUTO!!!========================================
+
+________________________________________________________________________________________________________________________________________
+
 Grazie per aver installato questo prodotto,
 
 questa è la versione digitale testuale del gioco Carta Forbice Sasso, è un gioco molto semplice creato con python.
@@ -21,4 +24,4 @@ email: pythondeveloperita07@gmail.com
 developer: Vincenzo Scarso
 
 ________________________________________________________________________________________________________________________________________
-ATTENZIONE PER UN' EVENTUALE DISTRIBUZIONE DI QUESTO PRODOTTO QUESTO FILE VA ALLEGATO
+
