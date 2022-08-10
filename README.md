@@ -22,4 +22,3 @@ developer: Vincenzo Scarso
 
 ________________________________________________________________________________________________________________________________________
 				ATTENZIONE PER UN' EVENTUALE DISTRIBUZIONE DI QUESTO PRODOTTO QUESTO FILE VA ALLEGATO
-
