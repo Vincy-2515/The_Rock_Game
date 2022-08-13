@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Grazie per aver installato questo gioco,
 
 questa è la versione digitale testuale del gioco Carta Forbice Sasso, è un gioco molto semplice creato con python.
-In questa versione, in particolare voglio specificare che sarà possibile rieseguire il gioco quante volte si vuole finalmente sono riuscito a sistemare qualche altro bug però quando alla richiesta della scelta tra carta forbice o sasso per favore evitate di inserire altri valori perchè il programma potrebbe andare in 
+In questa versione, in particolare voglio specificare che sarà possibile rieseguire il gioco quante volte si vuole, finalmente sono riuscito a sistemare qualche altro bug però quando alla richiesta della scelta tra carta forbice o sasso per favore evitate di inserire altri valori perchè il programma potrebbe andare in 
 crash detto questo: !!!BUON DIVERTIMENTO!!!
 
 Versione: relase - 1.1
