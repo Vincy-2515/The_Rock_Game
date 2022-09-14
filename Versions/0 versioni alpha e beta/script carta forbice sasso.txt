@@ -1,0 +1,54 @@
+print('Ciao')
+print('come ti chiami?')
+risposta=input()
+print('bene ' + risposta + ' giochiamo!!!')
+print('per giocare scegli tra carta=1 sasso=2 forbice=3 e per favore solo questi numeri!!')
+cfs=int(input())
+while 1==1:
+    if cfs == 1:
+        print('bene hai fatto la tua scelta')
+        print('ora tocca a me :)')
+        print('...')
+        print('...')
+        print('io ho scelto forbice')
+        print('ho vinto!!')
+        break
+    if cfs == 2:
+        print('bene hai fatto la tua scelta')
+        print('ora tocca a me :)')
+        print('...')
+        print('...')
+        print('io ho scelto carta')
+        print('ho vinto!!')
+        break
+    if cfs == 3:
+        print('bene hai fatto la tua scelta')
+        print('ora tocca a me :)')
+        print('...')
+        print('...')
+        print('io ho scelto sasso')
+        print('ho vinto!!')
+        break
+    if cfs == 4:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    if cfs == 5:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    if cfs == 6:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    if cfs == 7:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    if cfs == 8:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    if cfs == 9:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    if cfs == 0:
+        while 200==200:
+            print('NON AVRESTI DOVUTO FARLO')
+    
+Courier New
