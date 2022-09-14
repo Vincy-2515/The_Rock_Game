@@ -18,7 +18,7 @@ Nota: All' avvio del programma windows potrà dire che questo essere un file per
 
 email: pythondeveloperita07@gmail.com
 
-developer: Vincenzo Scarso
+developer: Vincenzo Scarso 
 
 ________________________________________________________________________________________________________________________________________
 
