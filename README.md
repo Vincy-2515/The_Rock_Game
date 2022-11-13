@@ -9,6 +9,8 @@ questa è la versione digitale testuale del gioco Carta Forbice Sasso, è un gio
 In questa versione, in particolare voglio specificare che sarà possibile rieseguire il gioco quante volte si vuole, finalmente sono riuscito a sistemare qualche altro bug però quando alla richiesta della scelta tra carta forbice o sasso per favore evitate di inserire altri valori perchè il programma potrebbe andare in 
 crash detto questo: !!!BUON DIVERTIMENTO!!!
 
+changelog: aggiunte scritte con colori
+
 Versione: relase - 1.1
 
 Nota: in questa versione è ancora probabile la presenza di bug quindi vi chiedo eventualmente di segnalarli all' email indicata
