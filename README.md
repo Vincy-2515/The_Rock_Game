@@ -12,7 +12,7 @@ developer: Vincenzo Scarso
 
 email: vincenzosc07@gmail.com
 
-changelog: aggiunta interfaccia grafica al gioco
+changelog: aggiunta interfaccia grafica al gioco, cambiato il nome del gioco
 
 Versione: relase - 2.0
 
