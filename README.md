@@ -11,13 +11,11 @@ DA ORA IL GIOCO POTRA ESSERE SCARICATO TRAMITE UN SETUP FILE
 
 developer: Vincenzo Scarso
 
-email: vincenzosc07@gmail.com
-
 cambiamenti: aggiunta interfaccia grafica al gioco, cambiato il nome del gioco, aggiunta la possibilità di pareggiare
 
 versione: relase - 2.0
 
-nota: se dovessero presentarsi dei bug segnalateli all'email indicata
+nota: se dovessero presentarsi dei bug segnalateli qui su github
 
 nota: All' avvio del programma, Windows potrà dire che questo può essere un file pericoloso, per favore disabilitare l' opzione di protezione dalle proprietà del 
       file accedendoci dal menù a tendina che si apre alla pressione del tasto destro sul file (vedi immagine quà sotto).
